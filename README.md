@@ -62,8 +62,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 * [X] Multi Ticket Minting in NFT
 * [ ] Nft sending when the user signes up
-* [ ] ~~Reselling Allowed, or not in create page freeze the assets is reselling is not allowed~~ [Not Planned]
-* [ ] ~~Create a reselling zone where people can buy the reselling tokens~~ [Not Planned]
+* [ ] Reselling Allowed, or not in create page freeze the assets is reselling is not allowed [Planned for May]
+* [ ] Create a reselling zone where people can buy the reselling tokens [Planned for May]
 * [ ] Certificates Should be sent when the event is over the Event owner can mint the Certificates of Participation....
 * [ ] Asset Metadata and the creator address verification while "Check In"
 * [ ] Sign the payload with your private key, Combine the payload and signature, and generate a QR code from the combined JSON
